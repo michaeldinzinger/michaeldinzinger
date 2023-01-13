@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Michael
-- 👀 I’m a German Computer science student from Regensburg, currently in the master's studies. My home university is the Ostbayerische Technische Hochschule, however, in the second semester during the master's I've studied abroad at the Université Clemront Auvergne in Clermont-Ferrand.
-- 🌱 I’m interested in Answer Set Programming, Data Science, Python and a lot more...
-- 📫 How to reach me: michi_d@gmx.net
+- 👋 Hi, I’m Michael!
+- 👀 I studied MSc. Computer science at OTH Regensburg and at the Université Clermont Auvergne in Clermont-Ferrand.
+- 👨🏽‍💻 Since the end of 2022, I'm working at the University of Passau.
+- 🌱 My interests are Answer Set Programming, Data Science, Python, Web Crawling and a lot more...
+- 📫 How to reach me: michi_d@gmx.net or michael.dinzinger@uni-passau.de
 
 <!---
 dim35216/dim35216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
